@@ -16,7 +16,6 @@ public class T {
         }
 
         for(int i = 0;i < chalk.length;i++){
-            
             if((k%total)-tem <chalk[i]){
                 return i;
             }
