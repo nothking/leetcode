@@ -1,4 +1,4 @@
-package _1190;
+package easy._1190;
 public class Test {
     public static void main(String[] args){
         System.out.println("tt");

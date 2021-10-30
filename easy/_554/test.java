@@ -1,4 +1,4 @@
-package _554;
+package easy._554;
 
 import java.util.ArrayList;
 import java.util.HashSet;

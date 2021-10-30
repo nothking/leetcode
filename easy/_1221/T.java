@@ -1,4 +1,4 @@
-package _1221;
+package easy._1221;
 
 import java.util.Stack;
 

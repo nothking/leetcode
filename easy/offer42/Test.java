@@ -1,4 +1,4 @@
-package offer42;
+package easy.offer42;
 
 public class Test {
 

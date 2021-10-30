@@ -1,4 +1,4 @@
-package _470;
+package easy._470;
 
 import java.util.Random;
 

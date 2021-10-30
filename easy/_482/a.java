@@ -1,4 +1,4 @@
-package _482;
+package easy._482;
 
 public class a {
     public static void main(String[] args) {

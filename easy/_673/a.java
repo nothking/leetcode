@@ -1,4 +1,4 @@
-package _673;
+package easy._673;
 
 import java.util.*;
 

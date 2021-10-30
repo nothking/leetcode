@@ -1,4 +1,4 @@
-package _483;
+package easy._483;
 
 import java.util.ArrayList;
 import java.util.List;

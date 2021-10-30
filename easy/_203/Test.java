@@ -1,4 +1,4 @@
-package _203;
+package easy._203;
 
 public class Test {
     public static void main(String[] args) {

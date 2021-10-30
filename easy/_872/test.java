@@ -1,4 +1,4 @@
-package _872;
+package easy._872;
 
 import java.util.LinkedList;
 import java.util.List;

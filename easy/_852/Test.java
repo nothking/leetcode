@@ -1,4 +1,4 @@
-package _852;
+package easy._852;
 
 public class Test {
     public static void main(String[] args){

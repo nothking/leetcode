@@ -1,4 +1,4 @@
-package offer10_1;
+package easy.offer10_1;
 
 public class T {
     public static void main(String[] args){

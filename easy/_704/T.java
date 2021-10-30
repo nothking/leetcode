@@ -1,4 +1,4 @@
-package _704;
+package easy._704;
 
 public class T {
     public static void main(String[] args){

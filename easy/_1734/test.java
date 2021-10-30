@@ -1,4 +1,4 @@
-package _1734;
+package easy._1734;
 
 
 public class test {

@@ -1,4 +1,4 @@
-package _643;
+package easy._643;
 
 import java.text.DecimalFormat;
 

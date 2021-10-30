@@ -1,4 +1,4 @@
-package _17_4;
+package easy._17_4;
 
 import java.util.stream.Stream;
 

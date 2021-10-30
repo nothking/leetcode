@@ -1,4 +1,4 @@
-package _430;
+package easy._430;
 
 import java.util.*;
 import java.util.Stack;

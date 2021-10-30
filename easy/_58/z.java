@@ -1,4 +1,4 @@
-package _58;
+package easy._58;
 
 public class z {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package offer38;
+package easy.offer38;
 
 import java.util.HashSet;
 import java.util.Set;
