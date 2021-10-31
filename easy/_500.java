@@ -2,8 +2,6 @@ package easy;
 
 import java.util.*;
 
-import javax.lang.model.element.Element;
-
 public class _500 {
     public static void main(String[] args){
         // System.out.println((int)'a' + "\t"+ (int)'A');
